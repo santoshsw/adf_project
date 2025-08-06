@@ -1,4 +1,5 @@
-[{
+[
+  {
     "OrderID": 1001,
     "CustomerID": "C011",
     "OrderDate": "2024-05-12T19:00:00Z",
@@ -32,5 +33,19 @@
     "OrderDate": "2024-05-03T13:00:00Z",
     "UpdatedDate": "2024-05-04T13:00:00Z",
     "Amount": 62.88
+  },
+  {
+    "OrderID": 1006,
+    "CustomerID": "C002",
+    "OrderDate": "2024-05-03T13:00:00Z",
+    "UpdatedDate": "2024-05-04T13:00:00Z",
+    "Amount": 62.88
+  },
+  {
+    "OrderID": 1002,
+    "CustomerID": "C003",
+    "OrderDate": "2024-06-17T04:00:00Z",
+    "UpdatedDate": "2024-06-29T04:00:00Z",
+    "Amount": 284.04
   }
 ]
